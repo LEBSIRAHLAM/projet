@@ -34,10 +34,10 @@ Aprés ça, la photo du client s’affichera sur l’écran d’accueil du salon
 
 #### Liste des composants
 
-*Camera
-*Raspberry pi 3 (pour la reconnaissance faciale)
-*Application Android
-*plaquette de N boutons (pour permettre au coiffeur de faire passer son    prochain client)
-*2 x esp-32
-*ecran de 7'' 
+* Camera
+* Raspberry pi 3 (pour la reconnaissance faciale)
+* Application Android
+* plaquette de N boutons (pour permettre au coiffeur de faire passer son    prochain client)
+* 2 x esp-32
+* ecran de 7'' 
 
