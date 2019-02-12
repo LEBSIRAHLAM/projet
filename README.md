@@ -21,7 +21,7 @@ Vous avez marre des disputes qui ont lieu chaque fois entre vos clients, a propo
 ### Fonctionnement 
 #### Coté client:
 
-A l’arriver d’un client il se mis en face de la camera à fin de le mettre dans la file d’attente et de s’identifier, pour cela on distingue 2 cas:
+A l’arriver d’un client il se met en face de la camera à fin de le mettre dans la file d’attente et de s’identifier, pour cela on distingue 2 cas:
 * si le client est un habitué du salon, il pourra changer ses besoins via un code QR a scanner, qu’il le dirigera vers un formulaire des besoins.
  
 * si non, il scannera un code QR qui le dirigera vers un formulaire d’inscription là ou il exprimera ses exigences et les stocker dans la base de données du salon. 
